@@ -2,7 +2,7 @@
 
 A web-based **Pharmacy Management System** built with PHP and MySQL for managing medicines, inventory, sales, customers, prescriptions, orders, and pharmacy reports.
 
-[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)](https://www.php.net/) [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-Compatible-003545?logo=mariadb&logoColor=white)](https://mariadb.org/) [![License](https://img.shields.io/badge/License-Academic%2FPortfolio-lightgrey)](#license)
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)](https://www.php.net/) [![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  [![License](https://img.shields.io/badge/License-Academic%2FPortfolio-lightgrey)](#license)
 
 **Live Demo:** Coming soon · **Source Code:** This repository
 
